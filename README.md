@@ -1,1 +1,3 @@
-# Login_mvvm
+# Login view controller
+
+MVVM + combine
